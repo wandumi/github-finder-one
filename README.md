@@ -7,5 +7,5 @@ and display the result, and the users information is shown on the targeted page
 
 In the project directory, you can run:
 
-React {class and the branch contains Using Hooks}, Bootstrap 5, Github API, 
+React, Bootstrap 5, Github API, 
 
